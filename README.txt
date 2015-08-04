@@ -1,10 +1,10 @@
-===================================================================================================
-+                          Bike Sharing - Project in Intelligent Systems                          +
-+                                 @ University of Pisa (unipi.it)                                 +
-+                                          Developed by                                           +
-+                        Alessio Villardita [villardita.alessio@gmail.com]                        +
-+                                Sara Egidi [egidi.sara@gmail.com]                                +
-===================================================================================================
+=============================================================================================
++                       Bike Sharing - Project in Intelligent Systems                       +
++                              @ University of Pisa (unipi.it)                              +
++                                       Developed by                                        +
++                     Alessio Villardita [villardita.alessio@gmail.com]                     +
++                             Sara Egidi [egidi.sara@gmail.com]                             +
+=============================================================================================
 Here is listed the required software for successfully running the trainings. The listing order is meaningful, so the correct results
 can be obtained by executing these commands in this specific order. 
 
